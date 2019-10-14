@@ -1,0 +1,46 @@
+body {
+    background-image: url(assets/images/folk-pattern.png);
+}
+
+.row {
+    background: gainsboro;
+    padding-top: 15px;
+}
+.profilepic {
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+}
+
+nav {
+    background-color: teal;
+    color: whitesmoke;
+}
+
+.navbar-brand {
+    margin-left: 5%;
+}
+
+#navbarNav {
+    padding-left: 50%;
+}
+
+.container {
+    margin-top: 4%;
+    margin-left: 4%;
+}
+
+form {
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+#Textarea1 {
+    height: 200px;
+}
+
+button {
+    background-color: teal;
+}
