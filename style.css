@@ -5,6 +5,9 @@ body {
 .row {
     background: gainsboro;
     padding-top: 15px;
+    padding-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 15px;
 }
 .profilepic {
     height: 150px;
@@ -43,4 +46,10 @@ form {
 
 button {
     background-color: teal;
+}
+
+
+#carouselExampleIndicators {
+    width: 70%;
+    margin-left: 10%;
 }
