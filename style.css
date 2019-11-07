@@ -53,3 +53,9 @@ button {
     width: 70%;
     margin-left: 10%;
 }
+
+.list-group {
+    margin-top: 25px;
+    width: 30%;
+    margin-left: 30%;
+}
